@@ -28,6 +28,7 @@ import { Component } from '@angular/core';
 //   nombre = "juan";
 // }
 
+// Ejercicio 4
 export class AppComponent {
   nombre = "";
   apellido = "";
